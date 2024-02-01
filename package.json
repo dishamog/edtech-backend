@@ -1,0 +1,17 @@
+{
+  "name": "edtech-backend",
+  "version": "1.0.0",
+  "description": "server for edtech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "disha mogaveera",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
